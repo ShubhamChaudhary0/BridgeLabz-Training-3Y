@@ -1,9 +1,10 @@
+package Controlflow;
 import java.util.*;
 public class Switchcase {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a day (1-5): ");
-        int day = sc.nextInt()+;
+        int day = sc.nextInt();
         String dayName;
 
         switch (day) {

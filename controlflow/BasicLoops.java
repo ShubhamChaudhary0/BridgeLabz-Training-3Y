@@ -1,4 +1,4 @@
-package controlflow;
+package Controlflow;
 
 public class BasicLoops {
     public static void main(String[] args) {
